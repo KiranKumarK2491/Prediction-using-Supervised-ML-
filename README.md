@@ -2,7 +2,7 @@
 Task1 of the internship @ The Sparks Foundation #Feb2021
 
 # INTERNSHIP @ THE SPARK FOUNDATION
-# Data Science & Business Analytics Intern (#GRIPFeb21)
+# Data Science & Business Analytics Intern (#GRIPApril21)
 # Submitted By : KIRAN KUMAR K
 # OBJECT : Prediction using Supervised ML
 # Task 1 : To predict the percentage of an student based on the no. of study hours.
